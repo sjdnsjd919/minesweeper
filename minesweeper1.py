@@ -13,6 +13,9 @@ def val(x,y):
         return  k
     else:
         return "$"
+def func(x):
+    return 45:
+print(func("hu"))
 def check(x,y,i,k):
     if i == 0 and x!=0 and y!=0 and map[x-1][y-1] == [k]:
         return 1
